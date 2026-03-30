@@ -53,8 +53,8 @@ To run these scripts, you will need:
 Open your Linux terminal and clone this project repository:
 
 ```bash
-git clone <your-github-repo-url>
-cd <repository-folder>
+git clone <https://github.com/priyanka24bsa10123-prog/oss-audit-24BSA10123.git>
+cd <>
 Step 2: Make the scripts executable
 
 Before running the scripts, you must grant them execution permissions:
