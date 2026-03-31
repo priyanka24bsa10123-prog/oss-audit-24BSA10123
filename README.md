@@ -40,3 +40,8 @@ Clone this repository to your local machine:
 git clone [https://github.com/YOUR_GITHUB_USERNAME/oss-audit-24bsa10123.git](https://github.com/YOUR_GITHUB_USERNAME/oss-audit-24bsa10123.git)
 cd oss-audit-24bsa10123
 chmod +x *.sh
+bash Script1_System_Identity.sh
+bash Script2_FOSS_Package_Inspector.sh
+bash Script3_Disk_Permission_Auditor.sh
+bash Script4_Log_File_Analyzer.sh /var/log/syslog error
+bash Script5_Open_Source_Manifesto_Generator.sh
