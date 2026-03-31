@@ -34,7 +34,7 @@ To run these scripts, you need a Linux distribution (Ubuntu, Fedora, Debian, etc
 * **Coreutils** (standard on most distros)
 * **Sudo access** (required for directory audits and package checks)
 
-### Installation
+### Installation 
 Clone this repository to your local machine:
 ```bash
 git clone [https://github.com/YOUR_GITHUB_USERNAME/oss-audit-24bsa10123.git](https://github.com/YOUR_GITHUB_USERNAME/oss-audit-24bsa10123.git)
@@ -50,3 +50,5 @@ bash Script3_Disk_Permission_Auditor.sh
 bash Script4_Log_File_Analyzer.sh /var/log/syslog error
 5️⃣ Open Source Manifesto Generator Generates a custom .txt file based on user input regarding OSS values.
 bash Script5_Open_Source_Manifesto_Generator.sh
+
+
